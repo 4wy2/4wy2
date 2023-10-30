@@ -1,16 +1,17 @@
-### Hi there 👋
+# KFUPM Course Offering
 
-<!--
-**4wy2/4wy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KFUPM Course Offering** is a chrome extension tool for KFUPM students that will enhance their experience in the [Course Offering website](https://registrar.kfupm.edu.sa/courseoffering#3352).
 
-Here are some ideas to get you started:
+you can download it from [chrome web store](https://chrome.google.com/webstore/detail/kfupm-course-offering/jajiinopiopggfikifkepeklkfpcbhnm/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation
+
+Install and Setup Nodejs, then use it to install and build the extension.
+
+```bash
+npm install
+npm run build
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
